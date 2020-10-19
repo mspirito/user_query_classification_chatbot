@@ -1,6 +1,5 @@
-# Chatbot_intent
-Create an algorithm in order to classify intent'user in a chatbot
-
+# Goal
+Create an algorithm in order to classify the intent of a user query in a chatbot.
 # Data Exploration
 Before diving into training machine learning models, I should look at some examples
 first and the number of question in each intent and scenario.
