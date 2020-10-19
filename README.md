@@ -24,4 +24,4 @@ I devided tha data into train and valuation and I create an CNN with some
 normalization(Drop 0,5) to avoidoverfitting and I used Bidirectional LSTM because it
 performs better for text classification.
 # Conclusion
-The model performance pretty well and it predicts pretty good the unseen data
+The model performs pretty well and it predicts pretty good the unseen data
